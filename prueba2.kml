@@ -9,6 +9,10 @@
           </href>
         </Icon>
       </IconStyle>
+	   <BalloonStyle>
+    <text>Hola, qué tal?</text>
+  </BalloonStyle>
+</Style>
    <Placemark>
        <centro>5401</centro>
 	   <styleUrl>#west_campus_style</styleUrl>
