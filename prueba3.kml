@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <name>Clientes Ciudad -Real_mod.kml</name>
+   <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+	   <BalloonStyle>
+    <text>Hola, qué tal?</text>
+  </BalloonStyle>
+</Style>
+   <Placemark>
+       <centro>5401</centro>
+	   <styleUrl>#west_campus_style</styleUrl>
+	   <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+       <puesta>N1</puesta>
+       <zona>13106</zona>
+       <ruta>13106</ruta>
+       <descripcion>TEMBLEQUE - LA GUARDIA</descripcion>
+       <orden>31</orden>
+       <hora>23:59:59</hora>
+       <Point>
+           <coordinates>39.7878995,-3.4734548</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>
