@@ -16,6 +16,13 @@
    <Placemark>
        <centro>5401</centro>
 	   <styleUrl>#west_campus_style</styleUrl>
+	   <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
        <puesta>N1</puesta>
        <zona>13106</zona>
        <ruta>13106</ruta>
