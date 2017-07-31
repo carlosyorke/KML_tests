@@ -30,7 +30,7 @@
 			<orden>31</orden>
 			<hora>23:59:59</hora>
 			<Point>
-				<coordinates>39.7878995,-3.4734548</coordinates>
+				<coordinates>39.7878995,-3.4734548,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>
